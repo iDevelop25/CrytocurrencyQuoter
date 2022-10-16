@@ -1,4 +1,4 @@
-# Crytocyrrency Quoter
+# Crytocurrency Quoter
 Hello everyone. In this time i bring to you a new little project. Is a simple Crytocurrency Quoter. I hope this like you.
 
 ## Technologies
